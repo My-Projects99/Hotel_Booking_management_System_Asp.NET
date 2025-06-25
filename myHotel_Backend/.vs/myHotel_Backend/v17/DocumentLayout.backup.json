@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\myHotel_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\roomdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\hotelsdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\hotelsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\controllers\\roomcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250214150044_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250214075918_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ABEB0D-D308-4301-8F2D-43779DA3CA5D}|myHotel_Backend\\myHotel_Backend.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\myhotel_backend\\myhotel_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ABEB0D-D308-4301-8F2D-43779DA3CA5D}|myHotel_Backend\\myHotel_Backend.csproj|solutionrelative:myhotel_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250213080643_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250213080440_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B7A5F8-A5E8-442D-BB7C-29F81568FDD4}|..\\HotelWebBackEnd\\HotelWebBackEnd.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\hotelwebbackend\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250210121101_migr2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250202085340_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250202084352_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ABEB0D-D308-4301-8F2D-43779DA3CA5D}|myHotel_Backend\\myHotel_Backend.csproj|d:\\c dac\\a-cdac class notes and pdfs\\d. webprogramming\\project_cdac\\myhotel_backend\\myhotel_backend\\controllers\\homescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ABEB0D-D308-4301-8F2D-43779DA3CA5D}|myHotel_Backend\\myHotel_Backend.csproj|solutionrelative:myhotel_backend\\controllers\\homescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelsDTO.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\HotelsDTO.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\HotelsDTO.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\HotelsDTO.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\HotelsDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:55:27.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\RoomController.cs*",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Controllers\\RoomController.cs*",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAqwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:05:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hotels.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Hotels.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\Hotels.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Hotels.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\Hotels.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:40:58.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Room.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\Room.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Room.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\Room.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:00:06.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomDtoResponse.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\RoomDtoResponse.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\RoomDtoResponse.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\RoomDtoResponse.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\RoomDtoResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:15:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\DataBase\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\DataBase\\MyDbContext.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\DataBase\\MyDbContext.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\DataBase\\MyDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:29:14.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Controllers\\HotelsController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAqwBIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:07:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelsDTOResponse.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\HotelsDTOResponse.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\HotelsDTOResponse.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\HotelsDTOResponse.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\HotelsDTOResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:50:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomCategoriesController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\RoomCategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Controllers\\RoomCategoriesController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\RoomCategoriesController.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Controllers\\RoomCategoriesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwF8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:26:16.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\RoomDTO.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\RoomDTO.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\RoomDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:07:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Program.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Program.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:21:12.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250214075918_migr1.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250214075918_migr1.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250214075918_migr1.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250214075918_migr1.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250214075918_migr1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:59:18.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\Login.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Login.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:02:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250214150044_migr1.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250214150044_migr1.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250214150044_migr1.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250214150044_migr1.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250214150044_migr1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:00:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:04:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250210121101_migr2.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250210121101_migr2.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250210121101_migr2.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250210121101_migr2.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250210121101_migr2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:11:02.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\User.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\User.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:46:24.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:57:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250213080440_migr1.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250213080440_migr1.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250213080440_migr1.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250213080440_migr1.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250213080440_migr1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:04:40.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\appsettings.json",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\appsettings.json",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T11:13:33.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\myHotel_Backend\\myHotel_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "myHotel_Backend\\Program.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\myHotel_Backend\\myHotel_Backend\\Program.cs",
+              "RelativeToolTip": "myHotel_Backend\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:01:39.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250213080643_migr1.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250213080643_migr1.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250213080643_migr1.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250213080643_migr1.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250213080643_migr1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:06:43.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Emp.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Model\\Emp.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Model\\Emp.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Model\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:18:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:42:25.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250202085340_migr1.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250202085340_migr1.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250202085340_migr1.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250202085340_migr1.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250202085340_migr1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:53:40.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250202084352_migr1.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250202084352_migr1.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebBackEnd\\Migrations\\20250202084352_migr1.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\Migrations\\20250202084352_migr1.cs",
+              "RelativeToolTip": "..\\HotelWebBackEnd\\Migrations\\20250202084352_migr1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:43:52.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomesController.cs",
+              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\myHotel_Backend\\myHotel_Backend\\Controllers\\HomesController.cs",
+              "RelativeDocumentMoniker": "myHotel_Backend\\Controllers\\HomesController.cs",
+              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\myHotel_Backend\\myHotel_Backend\\Controllers\\HomesController.cs",
+              "RelativeToolTip": "myHotel_Backend\\Controllers\\HomesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:38:07.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
